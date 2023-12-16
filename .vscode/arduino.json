@@ -1,0 +1,5 @@
+{
+    "sketch": "digital_potentiometer.ino",
+    "port": "/dev/tty.usbmodem2017_2_251",
+    "board": "arduino:avr:uno"
+}
